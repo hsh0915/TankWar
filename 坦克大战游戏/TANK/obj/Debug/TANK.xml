@@ -1,0 +1,244 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+TANK
+</name>
+</assembly>
+<members>
+<member name="P:TANK.My.Resources.Resources.ResourceManager">
+	<summary>
+  返回此类使用的缓存的 ResourceManager 实例。
+</summary>
+</member><member name="P:TANK.My.Resources.Resources.Culture">
+	<summary>
+  使用此强类型资源类，为所有资源查找
+  重写当前线程的 CurrentUICulture 属性。
+</summary>
+</member><member name="P:TANK.My.Resources.Resources.add">
+	<summary>
+  查找类似于 System.IO.MemoryStream 的 System.IO.UnmanagedMemoryStream 类型的本地化资源。
+</summary>
+</member><member name="P:TANK.My.Resources.Resources.blast">
+	<summary>
+  查找类似于 System.IO.MemoryStream 的 System.IO.UnmanagedMemoryStream 类型的本地化资源。
+</summary>
+</member><member name="P:TANK.My.Resources.Resources.blast1">
+	<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member><member name="P:TANK.My.Resources.Resources.blast2">
+	<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member><member name="P:TANK.My.Resources.Resources.blast3">
+	<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member><member name="P:TANK.My.Resources.Resources.blast4">
+	<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member><member name="P:TANK.My.Resources.Resources.blast5">
+	<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member><member name="P:TANK.My.Resources.Resources.blast6">
+	<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member><member name="P:TANK.My.Resources.Resources.blast7">
+	<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member><member name="P:TANK.My.Resources.Resources.blast8">
+	<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member><member name="P:TANK.My.Resources.Resources.bomb">
+	<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member><member name="P:TANK.My.Resources.Resources.born1">
+	<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member><member name="P:TANK.My.Resources.Resources.born2">
+	<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member><member name="P:TANK.My.Resources.Resources.born3">
+	<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member><member name="P:TANK.My.Resources.Resources.born4">
+	<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member><member name="P:TANK.My.Resources.Resources.destory">
+	<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member><member name="P:TANK.My.Resources.Resources.enemy1D">
+	<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member><member name="P:TANK.My.Resources.Resources.enemy1L">
+	<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member><member name="P:TANK.My.Resources.Resources.enemy1R">
+	<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member><member name="P:TANK.My.Resources.Resources.enemy1U">
+	<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member><member name="P:TANK.My.Resources.Resources.enemy2D">
+	<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member><member name="P:TANK.My.Resources.Resources.enemy2L">
+	<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member><member name="P:TANK.My.Resources.Resources.enemy2R">
+	<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member><member name="P:TANK.My.Resources.Resources.enemy2U">
+	<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member><member name="P:TANK.My.Resources.Resources.enemy3D">
+	<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member><member name="P:TANK.My.Resources.Resources.enemy3L">
+	<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member><member name="P:TANK.My.Resources.Resources.enemy3R">
+	<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member><member name="P:TANK.My.Resources.Resources.enemy3U">
+	<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member><member name="P:TANK.My.Resources.Resources.enemymissile">
+	<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member><member name="P:TANK.My.Resources.Resources.fire">
+	<summary>
+  查找类似于 System.IO.MemoryStream 的 System.IO.UnmanagedMemoryStream 类型的本地化资源。
+</summary>
+</member><member name="P:TANK.My.Resources.Resources.grass">
+	<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member><member name="P:TANK.My.Resources.Resources.hit">
+	<summary>
+  查找类似于 System.IO.MemoryStream 的 System.IO.UnmanagedMemoryStream 类型的本地化资源。
+</summary>
+</member><member name="P:TANK.My.Resources.Resources.mintank">
+	<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member><member name="P:TANK.My.Resources.Resources.over">
+	<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member><member name="P:TANK.My.Resources.Resources.p1tankD">
+	<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member><member name="P:TANK.My.Resources.Resources.p1tankL">
+	<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member><member name="P:TANK.My.Resources.Resources.p1tankR">
+	<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member><member name="P:TANK.My.Resources.Resources.p1tankU">
+	<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member><member name="P:TANK.My.Resources.Resources.p2tankD">
+	<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member><member name="P:TANK.My.Resources.Resources.p2tankL">
+	<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member><member name="P:TANK.My.Resources.Resources.p2tankR">
+	<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member><member name="P:TANK.My.Resources.Resources.p2tankU">
+	<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member><member name="P:TANK.My.Resources.Resources.select1">
+	<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member><member name="P:TANK.My.Resources.Resources.selecttank">
+	<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member><member name="P:TANK.My.Resources.Resources.star">
+	<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member><member name="P:TANK.My.Resources.Resources.start">
+	<summary>
+  查找类似于 System.IO.MemoryStream 的 System.IO.UnmanagedMemoryStream 类型的本地化资源。
+</summary>
+</member><member name="P:TANK.My.Resources.Resources.steel">
+	<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member><member name="P:TANK.My.Resources.Resources.steels">
+	<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member><member name="P:TANK.My.Resources.Resources.symbol">
+	<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member><member name="P:TANK.My.Resources.Resources.tankmissile">
+	<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member><member name="P:TANK.My.Resources.Resources.timer">
+	<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member><member name="P:TANK.My.Resources.Resources.title">
+	<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member><member name="P:TANK.My.Resources.Resources.wall">
+	<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member><member name="P:TANK.My.Resources.Resources.walls">
+	<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member><member name="P:TANK.My.Resources.Resources.water">
+	<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member><member name="T:TANK.My.Resources.Resources">
+	<summary>
+  一个强类型的资源类，用于查找本地化的字符串等。
+</summary>
+</member>
+</members>
+</doc>

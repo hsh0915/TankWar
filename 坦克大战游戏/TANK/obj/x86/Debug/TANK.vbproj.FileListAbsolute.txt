@@ -1,0 +1,49 @@
+C:\Users\Student\Documents\Visual Studio 2008\Projects\TANK\TANK\bin\x86\Debug\TANK.exe
+C:\Users\Student\Documents\Visual Studio 2008\Projects\TANK\TANK\bin\x86\Debug\TANK.pdb
+C:\Users\Student\Documents\Visual Studio 2008\Projects\TANK\TANK\bin\x86\Debug\TANK.xml
+C:\Users\Student\Documents\Visual Studio 2008\Projects\TANK\TANK\bin\x86\Debug\Microsoft.DirectX.DirectSound.dll
+C:\Users\Student\Documents\Visual Studio 2008\Projects\TANK\TANK\bin\x86\Debug\Microsoft.DirectX.dll
+C:\Users\Student\Documents\Visual Studio 2008\Projects\TANK\TANK\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Student\Documents\Visual Studio 2008\Projects\TANK\TANK\obj\x86\Debug\TANK.MainForm.resources
+C:\Users\Student\Documents\Visual Studio 2008\Projects\TANK\TANK\obj\x86\Debug\TANK.Resources.resources
+C:\Users\Student\Documents\Visual Studio 2008\Projects\TANK\TANK\obj\x86\Debug\TANK.StartForm.resources
+C:\Users\Student\Documents\Visual Studio 2008\Projects\TANK\TANK\obj\x86\Debug\TANK.vbproj.GenerateResource.Cache
+C:\Users\Student\Documents\Visual Studio 2008\Projects\TANK\TANK\obj\x86\Debug\TANK.exe
+C:\Users\Student\Documents\Visual Studio 2008\Projects\TANK\TANK\obj\x86\Debug\TANK.xml
+C:\Users\Student\Documents\Visual Studio 2008\Projects\TANK\TANK\obj\x86\Debug\TANK.pdb
+G:\TANK\TANK\obj\x86\Debug\TANK.exe
+G:\TANK\TANK\obj\x86\Debug\TANK.xml
+G:\TANK\TANK\obj\x86\Debug\TANK.pdb
+C:\Users\Student\Desktop\TANK\TANK\obj\x86\Debug\TANK.exe
+C:\Users\Student\Desktop\TANK\TANK\obj\x86\Debug\TANK.xml
+C:\Users\Student\Desktop\TANK\TANK\obj\x86\Debug\TANK.pdb
+C:\Users\Student\Desktop\TANK\TANK\bin\x86\Debug\TANK.exe
+C:\Users\Student\Desktop\TANK\TANK\bin\x86\Debug\TANK.pdb
+C:\Users\Student\Desktop\TANK\TANK\bin\x86\Debug\TANK.xml
+C:\Users\Student\Desktop\TANK\TANK\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Student\Desktop\TANK\TANK\obj\x86\Debug\TANK.MainForm.resources
+C:\Users\Student\Desktop\TANK\TANK\obj\x86\Debug\TANK.Resources.resources
+C:\Users\Student\Desktop\TANK\TANK\obj\x86\Debug\TANK.StartForm.resources
+C:\Users\Student\Desktop\TANK\TANK\obj\x86\Debug\TANK.vbproj.GenerateResource.Cache
+C:\Users\Student\Desktop\Tank Word\TANK\obj\x86\Debug\TANK.exe
+C:\Users\Student\Desktop\Tank Word\TANK\obj\x86\Debug\TANK.xml
+C:\Users\Student\Desktop\Tank Word\TANK\obj\x86\Debug\TANK.pdb
+C:\Users\Student\Desktop\Tank Word\TANK\bin\x86\Debug\TANK.exe
+C:\Users\Student\Desktop\Tank Word\TANK\bin\x86\Debug\TANK.pdb
+C:\Users\Student\Desktop\Tank Word\TANK\bin\x86\Debug\TANK.xml
+C:\Users\Student\Desktop\Tank Word\TANK\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Student\Desktop\Tank Word\TANK\obj\x86\Debug\TANK.MainForm.resources
+C:\Users\Student\Desktop\Tank Word\TANK\obj\x86\Debug\TANK.Resources.resources
+C:\Users\Student\Desktop\Tank Word\TANK\obj\x86\Debug\TANK.StartForm.resources
+C:\Users\Student\Desktop\Tank Word\TANK\obj\x86\Debug\TANK.vbproj.GenerateResource.Cache
+C:\Users\Student\Desktop\2013242041_韩少华_坦克大战游戏\TANK\obj\x86\Debug\TANK.exe
+C:\Users\Student\Desktop\2013242041_韩少华_坦克大战游戏\TANK\obj\x86\Debug\TANK.xml
+C:\Users\Student\Desktop\2013242041_韩少华_坦克大战游戏\TANK\obj\x86\Debug\TANK.pdb
+C:\Users\Student\Desktop\2013242041_韩少华_坦克大战游戏\TANK\bin\x86\Debug\TANK.exe
+C:\Users\Student\Desktop\2013242041_韩少华_坦克大战游戏\TANK\bin\x86\Debug\TANK.pdb
+C:\Users\Student\Desktop\2013242041_韩少华_坦克大战游戏\TANK\bin\x86\Debug\TANK.xml
+C:\Users\Student\Desktop\2013242041_韩少华_坦克大战游戏\TANK\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Student\Desktop\2013242041_韩少华_坦克大战游戏\TANK\obj\x86\Debug\TANK.MainForm.resources
+C:\Users\Student\Desktop\2013242041_韩少华_坦克大战游戏\TANK\obj\x86\Debug\TANK.Resources.resources
+C:\Users\Student\Desktop\2013242041_韩少华_坦克大战游戏\TANK\obj\x86\Debug\TANK.StartForm.resources
+C:\Users\Student\Desktop\2013242041_韩少华_坦克大战游戏\TANK\obj\x86\Debug\TANK.vbproj.GenerateResource.Cache

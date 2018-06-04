@@ -1,0 +1,12 @@
+E:\Visual studio 2013 程序\Tank vb\Tank vb\bin\Debug\Tank vb.pdb
+E:\Visual studio 2013 程序\Tank vb\Tank vb\bin\Debug\Tank vb.xml
+E:\Visual studio 2013 程序\Tank vb\Tank vb\obj\Debug\Tank_vb.MainForm.resources
+E:\Visual studio 2013 程序\Tank vb\Tank vb\obj\Debug\Tank_vb.Resources.resources
+E:\Visual studio 2013 程序\Tank vb\Tank vb\obj\Debug\Tank vb.vbproj.GenerateResource.Cache
+E:\Visual studio 2013 程序\Tank vb\Tank vb\obj\Debug\Tank vb.xml
+E:\Visual studio 2013 程序\Tank vb\Tank vb\obj\Debug\Tank vb.pdb
+E:\Visual studio 2013 程序\Tank vb\Tank vb\obj\Debug\Tank vb.vbprojResolveAssemblyReference.cache
+E:\Visual studio 2013 程序\Tank vb\Tank vb\bin\Debug\Tank vb.exe.config
+E:\Visual studio 2013 程序\Tank vb\Tank vb\bin\Debug\Tank vb.exe
+E:\Visual studio 2013 程序\Tank vb\Tank vb\obj\Debug\Tank vb.exe
+E:\Visual studio 2013 程序\Tank VB\Tank vb\obj\Debug\Tank_vb.StartForm.resources

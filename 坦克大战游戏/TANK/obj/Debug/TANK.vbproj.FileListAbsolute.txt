@@ -1,0 +1,13 @@
+C:\Users\Student\Documents\Visual Studio 2008\Projects\TANK\TANK\bin\Debug\TANK.exe
+C:\Users\Student\Documents\Visual Studio 2008\Projects\TANK\TANK\bin\Debug\TANK.pdb
+C:\Users\Student\Documents\Visual Studio 2008\Projects\TANK\TANK\bin\Debug\TANK.xml
+C:\Users\Student\Documents\Visual Studio 2008\Projects\TANK\TANK\bin\Debug\Microsoft.DirectX.DirectSound.dll
+C:\Users\Student\Documents\Visual Studio 2008\Projects\TANK\TANK\bin\Debug\Microsoft.DirectX.dll
+C:\Users\Student\Documents\Visual Studio 2008\Projects\TANK\TANK\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Student\Documents\Visual Studio 2008\Projects\TANK\TANK\obj\Debug\TANK.MainForm.resources
+C:\Users\Student\Documents\Visual Studio 2008\Projects\TANK\TANK\obj\Debug\TANK.Resources.resources
+C:\Users\Student\Documents\Visual Studio 2008\Projects\TANK\TANK\obj\Debug\TANK.StartForm.resources
+C:\Users\Student\Documents\Visual Studio 2008\Projects\TANK\TANK\obj\Debug\TANK.vbproj.GenerateResource.Cache
+C:\Users\Student\Documents\Visual Studio 2008\Projects\TANK\TANK\obj\Debug\TANK.exe
+C:\Users\Student\Documents\Visual Studio 2008\Projects\TANK\TANK\obj\Debug\TANK.xml
+C:\Users\Student\Documents\Visual Studio 2008\Projects\TANK\TANK\obj\Debug\TANK.pdb
