@@ -26,8 +26,9 @@
 河流：阻碍坦克前进, 坦克子弹可以穿过，remove不掉。
 雪 : 加速坦克前进，坦克子弹可以穿过，remove不掉。
 草 ：不影响坦克前进，影响坦克子弹的速度。
-![https://github.com/hsh0915/TankWar/blob/master/Sourses/1.png] 
-![主页面]
+![Image text](https://github.com/hsh0915/TankWar/blob/master/Sourses/1.png)
+![Image text](https://github.com/hsh0915/TankWar/blob/master/Sourses/2.png)
+![Image text](https://github.com/hsh0915/TankWar/blob/master/Sourses/3.png)
  
 
  
